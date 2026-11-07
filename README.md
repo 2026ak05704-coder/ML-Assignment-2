@@ -47,7 +47,7 @@ end in a purchase — so headline accuracy is misleading and metrics such as
 
 ## c. GitHub Repository Link
 
-> `https://github.com/<your-username>/online-shoppers-intention` _(replace with your repo URL)_
+> https://github.com/2026ak05704-coder/ML-Assignment-2.git
 
 ## d. Models Used
 
@@ -129,5 +129,6 @@ retrain on data.
 
 ## Live App
 
-> `https://<your-app-name>.streamlit.app` _(replace with your deployed URL)_
+> https://ml-assignment-2-t7xvgkepjjyn99appicemeh.streamlit.app/
+
 # ML-Assignment-2
